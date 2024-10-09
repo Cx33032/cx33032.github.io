@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yiming Jin / Site Title"
+title                    : "Yiming Jin / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yiming Jin"
-description              : &description "personal description"
+description              : &description "a grade 12 student in Gloucester High School"
 url                      : https://cx33032.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cx33032/cx33032.github.io"
@@ -22,13 +22,13 @@ repository               : "cx33032/cx33032.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Yiming Jin"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "harry.king0927@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
