@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yiming Jin / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yiming Jin"
-description              : &description "a grade 12 student in Gloucester High School"
+description              : &description "a grade 12 High School student interested in Machine Learning and Statistics"
 url                      : https://cx33032.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cx33032/cx33032.github.io"
@@ -24,31 +24,31 @@ author:
   avatar           : "profile.png"
   name             : "Yiming Jin"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Grade 12 international student interested in Statistics and Machine Learning."
+  location         : "Ottawa, Ontario, Canada"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "harry.king0927@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "cx33032"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
