@@ -14,7 +14,14 @@ Education
 * Gloucester High School, 2025 (expected)
 * Tianfu No. 7 High Schoo, 2023
 
-Work experience
+Awards
+======
+* CEMC Euclid Math Contest, School Championship, 2024
+* CEMC Hypatia Math Contest, Certificate of Distinction (Top 25%), 2024
+* CEMC Candaian Computing Competition - Junior, Student Honour Roll (Top 5%), 2024
+* OCDSB Silver Medal (Grades average with 90% and higher), 2023
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -29,9 +36,9 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -60,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
